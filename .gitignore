@@ -1,0 +1,10 @@
+# Simulation outputs (created at runtime)
+generated/
+
+# MATLAB editor autosaves
+*.asv
+*.m~
+
+# OS noise
+.DS_Store
+Thumbs.db
